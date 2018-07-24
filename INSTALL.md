@@ -111,7 +111,7 @@ The `libxcursor-dev` package is needed to
 
 # Compiling
 
-1. [Get Aseprite code](#get-the-source-code), put it in a folder like
+1. [Get the Aseprite source code](#get-the-source-code), put it in a folder like
    `C:\aseprite`, and create a `build` directory inside to leave all
    the files that are result of the compilation process (`.exe`,
    `.lib`, `.obj`, `.a`, `.o`, etc).
